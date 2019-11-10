@@ -14,3 +14,6 @@ fontAwesome.crossOrigin = "anonymous";
 document.head.appendChild(fontAwesome);
 
 ```
+___
+
+![](https://media.giphy.com/media/cPHLwsPF07JyXmLynW/giphy.gif)
